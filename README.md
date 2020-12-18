@@ -1,4 +1,4 @@
-I am a second year student at the Polytechnic University of Valencia studying **Interactive Technologies**. I have a passion for learning and developing new skills related to **programming, computer science and electronics**.
+I am a second-year undergraduate student at the Polytechnic University of Valencia studying **Interactive Technologies**. I have a passion for learning and developing new skills related to **programming, computer science and electronics**.
 
 *   🌱 C/C++, Arduino, Java, C#, JavaScript, PHP, SQL.   
 *   🔭 I’m currently working on an IoT Smart Street Lighting system.
